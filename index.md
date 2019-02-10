@@ -13,7 +13,7 @@ At last, I'm a member of the debates club of my university, and I can say that i
 
 ## My works
 
--CodeWars account: [тык](https://www.codewars.com/users/Elmavis) - https://www.codewars.com/users/Elmavis
+-CodeWars account: [тык](https://www.codewars.com/users/Elmavis) - сайт: https://www.codewars.com/users/Elmavis
 
 
 
