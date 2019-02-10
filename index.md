@@ -13,8 +13,7 @@ At last, I'm a member of the debates club of my university, and I can say that i
 
 ## My works
 
+CodeWars account: https://www.codewars.com/users/Elmavis
 
-
-**Bold** and _Italic_ and `Code` text
 
 
