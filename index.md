@@ -1,4 +1,4 @@
-### Welcome to Tarasenka Alexander site!
+## Welcome to Tarasenka Alexander site!
 
 ## Some words about me
 I'm a student of a Belarusian State University, the 2nd grade. My faculty is named as "The faculty of applied math and mechanics", my speciality is "Applied Informatics" and I am proud of my place in the life. 
@@ -7,6 +7,7 @@ Among my strong traits I can't don't mention my great intelligence, perseverance
 I'm really inspired by the fact that I can become part of such giant company and I suppose it will become true as soon as it possible.
 
 # My interests
+
 
 
 # My works
