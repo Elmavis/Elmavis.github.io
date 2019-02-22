@@ -14,7 +14,7 @@ At last, I'm a member of the debates club of my university, and I can say that t
 ## My works
 
 -CodeWars account: [тык](https://www.codewars.com/users/Elmavis) - сайт: https://www.codewars.com/users/Elmavis 
-<p> -Tasks from Padawans.net: 
-<p> [FancyCalc](https://github.com/Elmavis/FancyCalc)
-
-
+<br> -Tasks from Padawans.net: 
+<br> [FancyCalc]( https://github.com/Elmavis/FancyCalc )
+<br> [PadawansTask1]( https://github.com/Elmavis/PadawansTask1 )
+<br> [PadawansTask2]( https://github.com/Elmavis/PadawansTask2 )
